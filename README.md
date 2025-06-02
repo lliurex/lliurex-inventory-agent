@@ -1,4 +1,4 @@
-# lliurex-inventory-agent
+# Lliurex Inventory Agent
 ## Overview
 Next Generation of the LliureX inventory agent.
 
